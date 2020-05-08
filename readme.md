@@ -1,6 +1,6 @@
 #  Maze Solver
-### This is a simple mazer solver made using  **python**  for fun 
-### This programs  takes image of a maze and shows the shoretest path available.
+### This is a simple maze solver made using  **python**  for fun 
+### This programs  takes image of a maze as input and shows the shoretest path available.
 
 ## Modules used
 - OpenCV
@@ -17,7 +17,7 @@ To measure the time taken to solve the maze
 
 ### Rest of the code is done using standard python by using the concept of trees and graphs.
 
-### Make that you install these modules
+### Make sure that you install these modules
 
 ## Input
 ---
